@@ -1,0 +1,20 @@
+{
+  "name": "json-server-continents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "keywords": [],
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mom4i22/animal-world.git"
+  },
+  "author": "Momchil Trenchev",
+  "license": "ISC",
+  "homepage": "https://github.com/mom4i22/animal-world.git#readme",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
